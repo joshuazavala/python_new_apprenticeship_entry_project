@@ -1,2 +1,2 @@
-# python_new_apprentice_entry_project
-This is my submission file for the New Apprenticeship entry interview project.
+# New Apprenticeship Entry Project
+This is my submission file in order to interview with New Apprenticeship
