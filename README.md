@@ -1,2 +1,2 @@
 # New Apprenticeship Entry Project
-This is my submission file in order to interview with New Apprenticeship
+This is my submission file in order to gain an interview with New Apprenticeship
